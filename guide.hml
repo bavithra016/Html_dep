@@ -1,0 +1,64 @@
+<html>
+    <head>
+        <title>Vacation</title>
+        <style>
+            img.jpg{
+                width: 1350px;
+                height: 350px;
+                float: center;
+            }
+            .highlight{
+                color: green;
+            }
+            .best{
+                float:right;
+
+            }
+            button{
+                color:rgb(247, 245, 248);
+                font-weight: bold;
+                font-family: "Roboto";
+                font-size:18px;
+                float:right;
+                width: 500px;
+                height:50px; 
+                background-color: rgb(123, 163, 238);
+
+            }
+            img{
+                width: 500px;
+                height: 295px;
+                float: right;
+            }
+        </style>
+        <body>
+            <img src="/home/prabhakar/Desktop/practice/360_F_416663024_MDoibghS8s4oxHea0PjRezhDJy17RtPd.jpg" class="jpg"><br><br>
+            <a href="https://en.wikipedia.org/wiki/Ooty">History of Ooty</a><hr>
+            <h1 class="highlight">Queen Of Hills</h1>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62575.03278938011!2d76.65222136946309!3d11.411933863888553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba8bd84b5f3d78d%3A0x179bdb14c93e3f42!2sOoty%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1715849204244!5m2!1sen!2sin" width="550" height="250" style="border:0;" align-item="right" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="best">Google Map</iframe>
+            <p>Ooty is a town and hill station in the Indian state of Tamil Nadu. <br>The name "Ooty" is short for Ootacamund (officially Udhagamandalam).<br> Ooty is located in the Nilgiris district, or Blue Mountains, <br>a mountain district. Ooty stands at about 7,500 feet above sea level.</p>
+            <p>Peppered with coffee and tea plantations, forests of eucalyptus, <br>conifers and pines, and a thick cover of shola trees, Ootacamund is <br>the perfect getaway for nature lovers. Such is the renown of its <br>beauty that it is popularly referred to as the 'Queen of Hill Stations' <br>and the 'Switzerland of India'.</p>
+            <h2 class="highlight">Best Place to visit in Ooty</h2><img src="/home/prabhakar/Desktop/practice/agoda-logo-black.jpg"><br>
+            <ol>
+                <li>Toy Train</li>
+                <li>Ooty Lake</li>
+                <li>Ooty Botanical Gardens: One of the best places to visit in Ooty</li>
+                <li>Ooty Rose Gardens</li>
+                <li>Thread Garden</li>
+                <li>
+                    Doddabetta Peak
+                </li>
+                <li>Dolphin’s Nose</li>
+                <li>Kalhatti Falls</li>
+                <li>Emerald Lake</li>
+                <li>Tiger Hill: Amongst Popular places in Ooty</li>
+                <li>Kamraj Sagar Lake</li>
+                <li>Kotagiri</li>
+                <li>Annamalai Temple</li>
+        </ol>
+        
+        <button onclick="document.location='https://www.agoda.com/en-in/?site_id=1891461&tag=3cda3586-9ec8-88d2-2819-7b1e8bb3ad04&gad_source=1&device=c&network=g&adid=682276368900&rand=17117406746345705623&expid=&adpos=&aud=kwd-2230651387&gclid=Cj0KCQjw3ZayBhDRARIsAPWzx8ocwcYjnlAyiEAPDY44_AOh1cmbOZhj8QtS7zrC-Khsd0nd287sDZkaAhOhEALw_wcB&pslc=1&ds=iyLWhT6700Ysex%2Bw'">Lets Plan Your Trip</button>
+        </body>
+    </head>
+</html>
+
