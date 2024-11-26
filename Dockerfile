@@ -1,5 +1,5 @@
-FROM centos:latest
-RUN yum -y update && yum -y install httpd
-COPY . /var/www/html
+FROM nginx:alpine
+WORKDIR /usr/share/nginx/html
+COPY . .
 EXPOSE 80
-CMD ["/usr/sbin/httpd", "-D", "FOREGROUND"]
+
